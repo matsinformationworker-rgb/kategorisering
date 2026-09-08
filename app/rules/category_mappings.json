@@ -1,0 +1,249 @@
+{
+  "mappings": [
+    {
+      "merchant": "adlibris",
+      "network": "tradedoubler",
+      "source_category": "Leksaker och spel > Läggspel > Pussel",
+      "target_category_id": "leksaker-spel/pussel/laggspel-pussel/vuxenpussel",
+      "rule_name": "Adlibris Pussel"
+    },
+    {
+      "merchant": "adlibris",
+      "network": "tradedoubler",
+      "source_category": "Leksaker och spel > Läggspel > Pusseltillbehör",
+      "target_category_id": "leksaker-spel/pussel/tillbehor/mattor-lim",
+      "rule_name": "Adlibris Pusseltillbehör"
+    },
+    {
+      "merchant": "adlibris",
+      "network": "tradedoubler",
+      "source_category": "Leksaker och spel > Spel > Brädspel",
+      "target_category_id": "leksaker-spel/sallskapsspel/bradspel/familjespel",
+      "rule_name": "Adlibris Brädspel"
+    },
+    {
+      "merchant": "adlibris",
+      "network": "tradedoubler",
+      "source_category": "Leksaker och spel > Spel > Kortspel",
+      "target_category_id": "leksaker-spel/sallskapsspel/kortspel/klassiska-kortspel",
+      "rule_name": "Adlibris Kortspel"
+    },
+    {
+      "merchant": "adlibris",
+      "network": "tradedoubler",
+      "source_category": "Leksaker och spel > Spel",
+      "target_category_id": "leksaker-spel/sallskapsspel/ovriga-spel/allmant",
+      "rule_name": "Adlibris Allmänna Spel"
+    },
+    {
+      "merchant": "adlibris",
+      "network": "tradedoubler",
+      "source_category": "Sportartiklar > Utomhusaktiviteter",
+      "target_category_id": "leksaker-spel/utomhuslek/klassiska-utespel/kubb-kastspel",
+      "rule_name": "Adlibris Utespel Standard"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Sports Bra",
+      "target_category_id": "sport-traning/traningsklader/dam/sport-bh",
+      "rule_name": "2XU Sport-BH"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Sports Bra LS",
+      "target_category_id": "sport-traning/traningsklader/dam/sport-bh",
+      "rule_name": "2XU Sport-BH Långärmad"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Crop",
+      "target_category_id": "sport-traning/traningsklader/dam/toppar-t-shirts",
+      "rule_name": "2XU Crop Top Dam"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Mens Wetsuit",
+      "target_category_id": "sport-traning/traningsklader/vatdrakter-simklader/vatdrakter",
+      "rule_name": "2XU Herr Våtdräkt"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Womens Wetsuit",
+      "target_category_id": "sport-traning/traningsklader/vatdrakter-simklader/vatdrakter",
+      "rule_name": "2XU Dam Våtdräkt"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Swim",
+      "target_category_id": "sport-traning/traningsklader/vatdrakter-simklader/simklader",
+      "rule_name": "2XU Simning"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Swim Shorts",
+      "target_category_id": "sport-traning/traningsklader/vatdrakter-simklader/simklader",
+      "rule_name": "2XU Simshorts"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Swim Cap",
+      "target_category_id": "sport-traning/traningsklader/vatdrakter-simklader/simtillbehor",
+      "rule_name": "2XU Badmössa"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Neoprene Swim Cap",
+      "target_category_id": "sport-traning/traningsklader/vatdrakter-simklader/simtillbehor",
+      "rule_name": "2XU Neopren Badmössa"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Booties",
+      "target_category_id": "sport-traning/traningsklader/vatdrakter-simklader/simtillbehor",
+      "rule_name": "2XU Simskor Booties"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Trisuit",
+      "target_category_id": "sport-traning/traningsklader/vatdrakter-simklader/triathlon-drakter",
+      "rule_name": "2XU Trisuit"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Tri - Bottoms",
+      "target_category_id": "sport-traning/traningsklader/vatdrakter-simklader/triathlon-drakter",
+      "rule_name": "2XU Triathlon Underdelar"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Tri - Tops",
+      "target_category_id": "sport-traning/traningsklader/vatdrakter-simklader/triathlon-drakter",
+      "rule_name": "2XU Triathlon Toppar"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Cycle Shorts",
+      "target_category_id": "sport-traning/traningsklader/cykelklader/cykelbyxor",
+      "rule_name": "2XU Cykelshorts"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Cycle Gilet",
+      "target_category_id": "sport-traning/traningsklader/cykelklader/cykelvastar-jackor",
+      "rule_name": "2XU Cykelväst"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Calf Guard",
+      "target_category_id": "sport-traning/sportutrustning-tillbehor/muskelskydd-kompression/vadskydd",
+      "rule_name": "2XU Vadskydd"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Calf Guard LS Aero",
+      "target_category_id": "sport-traning/sportutrustning-tillbehor/muskelskydd-kompression/vadskydd",
+      "rule_name": "2XU Vadskydd Aero"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Leg Sleeve",
+      "target_category_id": "sport-traning/sportutrustning-tillbehor/muskelskydd-kompression/vadskydd",
+      "rule_name": "2XU Benskydd Sleeve"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Arm Guard",
+      "target_category_id": "sport-traning/sportutrustning-tillbehor/muskelskydd-kompression/armskydd",
+      "rule_name": "2XU Armskydd"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Bag",
+      "target_category_id": "sport-traning/sportutrustning-tillbehor/sportaccessoarer/vaskor-ryggsackar",
+      "rule_name": "2XU Sportväska"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Bag - Belt",
+      "target_category_id": "sport-traning/sportutrustning-tillbehor/sportaccessoarer/vaskor-ryggsackar",
+      "rule_name": "2XU Midjeväska"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Hydration Vest",
+      "target_category_id": "sport-traning/sportutrustning-tillbehor/sportaccessoarer/vaskor-ryggsackar",
+      "rule_name": "2XU Vätskeväst"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Cap",
+      "target_category_id": "sport-traning/sportutrustning-tillbehor/sportaccessoarer/huvudbonader",
+      "rule_name": "2XU Keps"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Beanie",
+      "target_category_id": "sport-traning/sportutrustning-tillbehor/sportaccessoarer/huvudbonader",
+      "rule_name": "2XU Mössa"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Headwear",
+      "target_category_id": "sport-traning/sportutrustning-tillbehor/sportaccessoarer/huvudbonader",
+      "rule_name": "2XU Huvudbonad"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Gloves",
+      "target_category_id": "sport-traning/sportutrustning-tillbehor/sportaccessoarer/handskar-balten",
+      "rule_name": "2XU Handskar"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Belt",
+      "target_category_id": "sport-traning/sportutrustning-tillbehor/sportaccessoarer/handskar-balten",
+      "rule_name": "2XU Bälte"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Other",
+      "target_category_id": "sport-traning/sportutrustning-tillbehor/ovrigt/allmant",
+      "rule_name": "2XU Övrigt"
+    },
+    {
+      "merchant": "2xu",
+      "network": "adtraction",
+      "source_category": "Maternity",
+      "target_category_id": "sport-traning/traningsklader/dam/tights",
+      "rule_name": "2XU Gravidkläder/Tights"
+    }
+  ]
+}

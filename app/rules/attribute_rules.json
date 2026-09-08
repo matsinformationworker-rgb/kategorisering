@@ -1,0 +1,69 @@
+{
+  "attribute_rules": [
+    {
+      "source_patterns": ["Compression Tights", "Compression Tights Tall", "tights", "leggings"],
+      "attribute": "gender",
+      "routes": {
+        "Dam": "sport-traning/traningsklader/dam/tights",
+        "Herr": "sport-traning/traningsklader/herr/tights",
+        "Unisex": "sport-traning/traningsklader/herr/tights",
+        "default": "sport-traning/traningsklader/dam/tights"
+      }
+    },
+    {
+      "source_patterns": ["Bottom - Shorts", "Compression Shorts", "shorts"],
+      "attribute": "gender",
+      "routes": {
+        "Dam": "sport-traning/traningsklader/dam/shorts",
+        "Herr": "sport-traning/traningsklader/herr/shorts",
+        "Unisex": "sport-traning/traningsklader/herr/shorts",
+        "default": "sport-traning/traningsklader/herr/shorts"
+      }
+    },
+    {
+      "source_patterns": [
+        "Top - Sleeveless H125", "Top - Sleeveless", 
+        "Top - Short Sleeve H125", "Top - Short Sleeve", 
+        "Top - Long Sleeve H125", "Top - Long Sleeve", 
+        "Compression Tops"
+      ],
+      "attribute": "gender",
+      "routes": {
+        "Dam": "sport-traning/traningsklader/dam/toppar-t-shirts",
+        "Herr": "sport-traning/traningsklader/herr/trojor-t-shirts",
+        "Unisex": "sport-traning/traningsklader/herr/trojor-t-shirts",
+        "default": "sport-traning/traningsklader/herr/trojor-t-shirts"
+      }
+    },
+    {
+      "source_patterns": ["Outerwear H125", "Outerwear", "Jacket", "Vest"],
+      "attribute": "gender",
+      "routes": {
+        "Dam": "sport-traning/traningsklader/dam/jackor-vastar",
+        "Herr": "sport-traning/traningsklader/herr/jackor-vastar",
+        "Unisex": "sport-traning/traningsklader/herr/jackor-vastar",
+        "default": "sport-traning/traningsklader/herr/jackor-vastar"
+      }
+    },
+    {
+      "source_patterns": ["Bottom - Trackpants", "Freedom - Bottom"],
+      "attribute": "gender",
+      "routes": {
+        "Dam": "sport-traning/traningsklader/dam/byxor-underdelar",
+        "Herr": "sport-traning/traningsklader/herr/byxor-underdelar",
+        "Unisex": "sport-traning/traningsklader/herr/byxor-underdelar",
+        "default": "sport-traning/traningsklader/herr/byxor-underdelar"
+      }
+    },
+    {
+      "source_patterns": ["Socks", "Compression Socks", "Bottom - Underwear"],
+      "attribute": "gender",
+      "routes": {
+        "Dam": "sport-traning/traningsklader/dam/underklader-strumpor",
+        "Herr": "sport-traning/traningsklader/herr/underklader-strumpor",
+        "Unisex": "sport-traning/traningsklader/herr/underklader-strumpor",
+        "default": "sport-traning/traningsklader/herr/underklader-strumpor"
+      }
+    }
+  ]
+}

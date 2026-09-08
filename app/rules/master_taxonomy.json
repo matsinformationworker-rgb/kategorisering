@@ -1,0 +1,533 @@
+{
+  "version": "1.0",
+  "max_depth": 4,
+  "categories": [
+    {
+      "id": "sport-traning",
+      "name": "Sport & Träning",
+      "level": 1,
+      "parent_id": null,
+      "keywords": ["sport", "träning", "workout", "fitness", "gym", "motion"],
+      "children": [
+        {
+          "id": "sport-traning/traningsklader",
+          "name": "Träningskläder",
+          "level": 2,
+          "parent_id": "sport-traning",
+          "keywords": ["träningskläder", "sportkläder", "apparel", "activewear", "bottom", "top"],
+          "children": [
+            {
+              "id": "sport-traning/traningsklader/dam",
+              "name": "Damkläder",
+              "level": 3,
+              "parent_id": "sport-traning/traningsklader",
+              "keywords": ["dam", "damkläder", "women", "womens", "female"],
+              "children": [
+                {
+                  "id": "sport-traning/traningsklader/dam/tights",
+                  "name": "Träningstights & Kompression",
+                  "level": 4,
+                  "parent_id": "sport-traning/traningsklader/dam",
+                  "keywords": ["compression tights", "tights", "leggings", "kompressionstights", "tall tights"]
+                },
+                {
+                  "id": "sport-traning/traningsklader/dam/shorts",
+                  "name": "Träningsshorts Dam",
+                  "level": 4,
+                  "parent_id": "sport-traning/traningsklader/dam",
+                  "keywords": ["compression shorts", "shorts", "träningsshorts", "bottom - shorts"]
+                },
+                {
+                  "id": "sport-traning/traningsklader/dam/toppar-t-shirts",
+                  "name": "Träningstoppar & T-shirts",
+                  "level": 4,
+                  "parent_id": "sport-traning/traningsklader/dam",
+                  "keywords": ["top", "t-shirt", "linne", "sleeveless", "short sleeve", "long sleeve", "crop"]
+                },
+                {
+                  "id": "sport-traning/traningsklader/dam/sport-bh",
+                  "name": "Sport-BH",
+                  "level": 4,
+                  "parent_id": "sport-traning/traningsklader/dam",
+                  "keywords": ["sports bra", "sport bh", "bra", "bh"]
+                },
+                {
+                  "id": "sport-traning/traningsklader/dam/jackor-vastar",
+                  "name": "Träningsjackor & Västar",
+                  "level": 4,
+                  "parent_id": "sport-traning/traningsklader/dam",
+                  "keywords": ["outerwear", "jacka", "jacket", "väst", "vest", "gilet"]
+                },
+                {
+                  "id": "sport-traning/traningsklader/dam/byxor-underdelar",
+                  "name": "Träningsbyxor & Underdelar",
+                  "level": 4,
+                  "parent_id": "sport-traning/traningsklader/dam",
+                  "keywords": ["trackpants", "byxor", "freedom - bottom", "pants"]
+                },
+                {
+                  "id": "sport-traning/traningsklader/dam/underklader-strumpor",
+                  "name": "Underkläder & Strumpor",
+                  "level": 4,
+                  "parent_id": "sport-traning/traningsklader/dam",
+                  "keywords": ["socks", "compression socks", "strumpor", "underwear", "underkläder"]
+                }
+              ]
+            },
+            {
+              "id": "sport-traning/traningsklader/herr",
+              "name": "Herrkläder",
+              "level": 3,
+              "parent_id": "sport-traning/traningsklader",
+              "keywords": ["herr", "herrkläder", "men", "mens", "male"],
+              "children": [
+                {
+                  "id": "sport-traning/traningsklader/herr/tights",
+                  "name": "Träningstights & Kompression",
+                  "level": 4,
+                  "parent_id": "sport-traning/traningsklader/herr",
+                  "keywords": ["compression tights", "tights", "kompressionstights", "tall tights"]
+                },
+                {
+                  "id": "sport-traning/traningsklader/herr/shorts",
+                  "name": "Träningsshorts Herr",
+                  "level": 4,
+                  "parent_id": "sport-traning/traningsklader/herr",
+                  "keywords": ["compression shorts", "shorts", "träningsshorts", "bottom - shorts"]
+                },
+                {
+                  "id": "sport-traning/traningsklader/herr/trojor-t-shirts",
+                  "name": "Träningströjor & T-shirts",
+                  "level": 4,
+                  "parent_id": "sport-traning/traningsklader/herr",
+                  "keywords": ["top", "t-shirt", "linne", "sleeveless", "short sleeve", "long sleeve", "compression tops"]
+                },
+                {
+                  "id": "sport-traning/traningsklader/herr/jackor-vastar",
+                  "name": "Träningsjackor & Västar",
+                  "level": 4,
+                  "parent_id": "sport-traning/traningsklader/herr",
+                  "keywords": ["outerwear", "jacka", "jacket", "väst", "vest", "gilet"]
+                },
+                {
+                  "id": "sport-traning/traningsklader/herr/byxor-underdelar",
+                  "name": "Träningsbyxor & Underdelar",
+                  "level": 4,
+                  "parent_id": "sport-traning/traningsklader/herr",
+                  "keywords": ["trackpants", "byxor", "freedom - bottom", "pants"]
+                },
+                {
+                  "id": "sport-traning/traningsklader/herr/underklader-strumpor",
+                  "name": "Underkläder & Strumpor",
+                  "level": 4,
+                  "parent_id": "sport-traning/traningsklader/herr",
+                  "keywords": ["socks", "compression socks", "strumpor", "underwear", "underkläder"]
+                }
+              ]
+            },
+            {
+              "id": "sport-traning/traningsklader/vatdrakter-simklader",
+              "name": "Våtdräkter & Simkläder",
+              "level": 3,
+              "parent_id": "sport-traning/traningsklader",
+              "keywords": ["simning", "swim", "wetsuit", "våtdräkt", "triathlon", "trisuit"],
+              "children": [
+                {
+                  "id": "sport-traning/traningsklader/vatdrakter-simklader/vatdrakter",
+                  "name": "Våtdräkter Herr & Dam",
+                  "level": 4,
+                  "parent_id": "sport-traning/traningsklader/vatdrakter-simklader",
+                  "keywords": ["mens wetsuit", "womens wetsuit", "wetsuit", "våtdräkt"]
+                },
+                {
+                  "id": "sport-traning/traningsklader/vatdrakter-simklader/simklader",
+                  "name": "Badkläder & Simshorts",
+                  "level": 4,
+                  "parent_id": "sport-traning/traningsklader/vatdrakter-simklader",
+                  "keywords": ["swim shorts", "badbyxor", "simshorts", "swim", "baddräkt"]
+                },
+                {
+                  "id": "sport-traning/traningsklader/vatdrakter-simklader/triathlon-drakter",
+                  "name": "Triathlondräkter & Trisuit",
+                  "level": 4,
+                  "parent_id": "sport-traning/traningsklader/vatdrakter-simklader",
+                  "keywords": ["trisuit", "tri - bottoms", "tri - tops", "triathlon"]
+                },
+                {
+                  "id": "sport-traning/traningsklader/vatdrakter-simklader/simtillbehor",
+                  "name": "Simtillbehör & Badmössor",
+                  "level": 4,
+                  "parent_id": "sport-traning/traningsklader/vatdrakter-simklader",
+                  "keywords": ["swim cap", "neoprene swim cap", "badmössa", "booties"]
+                }
+              ]
+            },
+            {
+              "id": "sport-traning/traningsklader/cykelklader",
+              "name": "Cykelkläder",
+              "level": 3,
+              "parent_id": "sport-traning/traningsklader",
+              "keywords": ["cykel", "cykelkläder", "cycle", "cycling", "biking"],
+              "children": [
+                {
+                  "id": "sport-traning/traningsklader/cykelklader/cykelbyxor",
+                  "name": "Cykelbyxor & Shorts",
+                  "level": 4,
+                  "parent_id": "sport-traning/traningsklader/cykelklader",
+                  "keywords": ["cycle shorts", "cykelshorts", "cykelbyxor", "bib shorts"]
+                },
+                {
+                  "id": "sport-traning/traningsklader/cykelklader/cykelvastar-jackor",
+                  "name": "Cykelvästar & Cykeltröjor",
+                  "level": 4,
+                  "parent_id": "sport-traning/traningsklader/cykelklader",
+                  "keywords": ["cycle gilet", "cykelväst", "cykeljacka", "cykeltröja"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sport-traning/sportutrustning-tillbehor",
+          "name": "Sportutrustning & Skydd",
+          "level": 2,
+          "parent_id": "sport-traning",
+          "keywords": ["skydd", "tillbehör", "equipment", "accessories", "gear"],
+          "children": [
+            {
+              "id": "sport-traning/sportutrustning-tillbehor/muskelskydd-kompression",
+              "name": "Kompressionstillbehör & Skydd",
+              "level": 3,
+              "parent_id": "sport-traning/sportutrustning-tillbehor",
+              "keywords": ["calf guard", "arm guard", "leg sleeve", "skydd", "muskelskydd"],
+              "children": [
+                {
+                  "id": "sport-traning/sportutrustning-tillbehor/muskelskydd-kompression/vadskydd",
+                  "name": "Vadskydd & Benskydd",
+                  "level": 4,
+                  "parent_id": "sport-traning/sportutrustning-tillbehor/muskelskydd-kompression",
+                  "keywords": ["calf guard", "calf guard ls aero", "leg sleeve", "vadskydd"]
+                },
+                {
+                  "id": "sport-traning/sportutrustning-tillbehor/muskelskydd-kompression/armskydd",
+                  "name": "Armskydd & Kompressionsärmar",
+                  "level": 4,
+                  "parent_id": "sport-traning/sportutrustning-tillbehor/muskelskydd-kompression",
+                  "keywords": ["arm guard", "armskydd", "arm sleeve"]
+                }
+              ]
+            },
+            {
+              "id": "sport-traning/sportutrustning-tillbehor/sportaccessoarer",
+              "name": "Sportaccessoarer & Träningsväskor",
+              "level": 3,
+              "parent_id": "sport-traning/sportutrustning-tillbehor",
+              "keywords": ["väska", "bag", "belt", "headwear", "keps", "mössa", "handskar"],
+              "children": [
+                {
+                  "id": "sport-traning/sportutrustning-tillbehor/sportaccessoarer/vaskor-ryggsackar",
+                  "name": "Sportväskor & Vätskeryggsäckar",
+                  "level": 4,
+                  "parent_id": "sport-traning/sportutrustning-tillbehor",
+                  "keywords": ["bag", "sportväska", "hydration vest", "bag - belt", "midjeväska", "ryggsäck"]
+                },
+                {
+                  "id": "sport-traning/sportutrustning-tillbehor/sportaccessoarer/huvudbonader",
+                  "name": "Kepsar, Mössor & Pannband",
+                  "level": 4,
+                  "parent_id": "sport-traning/sportutrustning-tillbehor",
+                  "keywords": ["cap", "beanie", "headwear", "keps", "mössa", "pannband"]
+                },
+                {
+                  "id": "sport-traning/sportutrustning-tillbehor/sportaccessoarer/handskar-balten",
+                  "name": "Träningshandskar & Löparbälten",
+                  "level": 4,
+                  "parent_id": "sport-traning/sportutrustning-tillbehor",
+                  "keywords": ["gloves", "belt", "handskar", "löparbälte", "bälte"]
+                }
+              ]
+            },
+            {
+              "id": "sport-traning/sportutrustning-tillbehor/ovrigt",
+              "name": "Övrig Sportutrustning",
+              "level": 3,
+              "parent_id": "sport-traning/sportutrustning-tillbehor",
+              "keywords": ["other", "övrigt", "sportutrustning"],
+              "children": [
+                {
+                  "id": "sport-traning/sportutrustning-tillbehor/ovrigt/allmant",
+                  "name": "Övriga Sporttillbehör",
+                  "level": 4,
+                  "parent_id": "sport-traning/sportutrustning-tillbehor/ovrigt",
+                  "keywords": ["maternity", "other", "övrigt sport"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leksaker-spel",
+      "name": "Leksaker & Spel",
+      "level": 1,
+      "parent_id": null,
+      "keywords": ["leksaker", "spel", "games", "toys", "sällskapsspel"],
+      "children": [
+        {
+          "id": "leksaker-spel/sallskapsspel",
+          "name": "Sällskapsspel & Brädspel",
+          "level": 2,
+          "parent_id": "leksaker-spel",
+          "keywords": ["spel", "brädspel", "kortspel", "sällskapsspel", "board games"],
+          "children": [
+            {
+              "id": "leksaker-spel/sallskapsspel/bradspel",
+              "name": "Brädspel",
+              "level": 3,
+              "parent_id": "leksaker-spel/sallskapsspel",
+              "keywords": ["brädspel", "board game", "ubongo", "vampyrjakten", "rummy"],
+              "children": [
+                {
+                  "id": "leksaker-spel/sallskapsspel/bradspel/familjespel",
+                  "name": "Familjespel & Barnspel",
+                  "level": 4,
+                  "parent_id": "leksaker-spel/sallskapsspel/bradspel",
+                  "keywords": ["familjespel", "barnspel", "familj"]
+                },
+                {
+                  "id": "leksaker-spel/sallskapsspel/bradspel/strategi-klassiker",
+                  "name": "Strategispel & Klassiska Brädspel",
+                  "level": 4,
+                  "parent_id": "leksaker-spel/sallskapsspel/bradspel",
+                  "keywords": ["strategispel", "klassiker", "avancerade brädspel"]
+                }
+              ]
+            },
+            {
+              "id": "leksaker-spel/sallskapsspel/kortspel",
+              "name": "Kortspel",
+              "level": 3,
+              "parent_id": "leksaker-spel/sallskapsspel",
+              "keywords": ["kortspel", "card game", "spelkort"],
+              "children": [
+                {
+                  "id": "leksaker-spel/sallskapsspel/kortspel/klassiska-kortspel",
+                  "name": "Klassiska Kortspel & Samlarkort",
+                  "level": 4,
+                  "parent_id": "leksaker-spel/sallskapsspel/kortspel",
+                  "keywords": ["kortlek", "samlarkort", "kortspel"]
+                },
+                {
+                  "id": "leksaker-spel/sallskapsspel/kortspel/partyspel-fragespel",
+                  "name": "Partyspel & Frågespel",
+                  "level": 4,
+                  "parent_id": "leksaker-spel/sallskapsspel/kortspel",
+                  "keywords": ["partyspel", "frågespel", "charader", "quiz"]
+                }
+              ]
+            },
+            {
+              "id": "leksaker-spel/sallskapsspel/ovriga-spel",
+              "name": "Övriga Sällskapsspel",
+              "level": 3,
+              "parent_id": "leksaker-spel/sallskapsspel",
+              "keywords": ["spel", "sällskapsspel"],
+              "children": [
+                {
+                  "id": "leksaker-spel/sallskapsspel/ovriga-spel/allmant",
+                  "name": "Spel & Tärningsspel",
+                  "level": 4,
+                  "parent_id": "leksaker-spel/sallskapsspel/ovriga-spel",
+                  "keywords": ["tärningsspel", "spel allmänt"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "leksaker-spel/pussel",
+          "name": "Pussel & Pusseltillbehör",
+          "level": 2,
+          "parent_id": "leksaker-spel",
+          "keywords": ["pussel", "läggspel", "jigsaw", "puzzle"],
+          "children": [
+            {
+              "id": "leksaker-spel/pussel/laggspel-pussel",
+              "name": "Pussel",
+              "level": 3,
+              "parent_id": "leksaker-spel/pussel",
+              "keywords": ["pussel", "1000 bitar", "500 bitar", "vuxenpussel", "barnpussel"],
+              "children": [
+                {
+                  "id": "leksaker-spel/pussel/laggspel-pussel/vuxenpussel",
+                  "name": "Pussel Vuxna (500+ bitar)",
+                  "level": 4,
+                  "parent_id": "leksaker-spel/pussel/laggspel-pussel",
+                  "keywords": ["1000 bitar", "1500 bitar", "2000 bitar", "vuxenpussel", "konstpussel"]
+                },
+                {
+                  "id": "leksaker-spel/pussel/laggspel-pussel/barnpussel",
+                  "name": "Barnpussel & Träpussel",
+                  "level": 4,
+                  "parent_id": "leksaker-spel/pussel/laggspel-pussel",
+                  "keywords": ["barnpussel", "knopppussel", "träpussel"]
+                }
+              ]
+            },
+            {
+              "id": "leksaker-spel/pussel/tillbehor",
+              "name": "Pusseltillbehör",
+              "level": 3,
+              "parent_id": "leksaker-spel/pussel",
+              "keywords": ["pusseltillbehör", "pusselmatta", "pussellim", "pussellåda"],
+              "children": [
+                {
+                  "id": "leksaker-spel/pussel/tillbehor/mattor-lim",
+                  "name": "Pusselmattor, Lim & Förvaring",
+                  "level": 4,
+                  "parent_id": "leksaker-spel/pussel/tillbehor",
+                  "keywords": ["pusselmatta", "pussellim", "sorteringslåda", "pusselportfölj"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "leksaker-spel/utomhuslek",
+          "name": "Utomhusspel & Trädgårdslek",
+          "level": 2,
+          "parent_id": "leksaker-spel",
+          "keywords": ["utomhusspel", "trädgårdsspel", "utomhusaktiviteter", "utespel"],
+          "children": [
+            {
+              "id": "leksaker-spel/utomhuslek/klassiska-utespel",
+              "name": "Klassiska Trädgårdsspel",
+              "level": 3,
+              "parent_id": "leksaker-spel/utomhuslek",
+              "keywords": ["kubb", "boule", "boccia", "cornhole", "mölkky", "spin ladder"],
+              "children": [
+                {
+                  "id": "leksaker-spel/utomhuslek/klassiska-utespel/kubb-kastspel",
+                  "name": "Kubb, Mölkky & Kastspel",
+                  "level": 4,
+                  "parent_id": "leksaker-spel/utomhuslek/klassiska-utespel",
+                  "keywords": ["kubb", "mölkky", "cornhole", "spin ladder", "bean bag game"]
+                },
+                {
+                  "id": "leksaker-spel/utomhuslek/klassiska-utespel/boule-boccia",
+                  "name": "Boule & Boccia",
+                  "level": 4,
+                  "parent_id": "leksaker-spel/utomhuslek/klassiska-utespel",
+                  "keywords": ["boule", "boccia", "boulekulor"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "elektronik-teknik",
+      "name": "Elektronik & Teknik",
+      "level": 1,
+      "parent_id": null,
+      "keywords": ["elektronik", "teknik", "ljud", "dator", "mobil", "tv"],
+      "children": [
+        {
+          "id": "elektronik-teknik/ljud-bild",
+          "name": "Ljud & Bild",
+          "level": 2,
+          "parent_id": "elektronik-teknik",
+          "keywords": ["hörlurar", "högtalare", "tv", "ljud"],
+          "children": [
+            {
+              "id": "elektronik-teknik/ljud-bild/horlurar",
+              "name": "Hörlurar",
+              "level": 3,
+              "parent_id": "elektronik-teknik/ljud-bild",
+              "keywords": ["hörlurar", "headset", "earbuds"],
+              "children": [
+                {
+                  "id": "elektronik-teknik/ljud-bild/horlurar/tradlosa",
+                  "name": "Trådlösa Hörlurar & In-ear",
+                  "level": 4,
+                  "parent_id": "elektronik-teknik/ljud-bild/horlurar",
+                  "keywords": ["trådlösa hörlurar", "true wireless", "in-ear"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hem-inredning",
+      "name": "Hem & Hushåll",
+      "level": 1,
+      "parent_id": null,
+      "keywords": ["hem", "inredning", "kök", "möbler", "belysning"],
+      "children": [
+        {
+          "id": "hem-inredning/kok-servering",
+          "name": "Kök & Matlagning",
+          "level": 2,
+          "parent_id": "hem-inredning",
+          "keywords": ["kök", "matlagning", "stekpannor", "knivar"],
+          "children": [
+            {
+              "id": "hem-inredning/kok-servering/kokskarl",
+              "name": "Kokkärl & Stekpannor",
+              "level": 3,
+              "parent_id": "hem-inredning/kok-servering",
+              "keywords": ["stekpanna", "kastrull", "gryta"],
+              "children": [
+                {
+                  "id": "hem-inredning/kok-servering/kokskarl/stekpannor",
+                  "name": "Stekpannor & Wokpannor",
+                  "level": 4,
+                  "parent_id": "hem-inredning/kok-servering/kokskarl",
+                  "keywords": ["stekpanna", "gjutjärnspanna"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skonhet-halsa",
+      "name": "Skönhet & Hälsa",
+      "level": 1,
+      "parent_id": null,
+      "keywords": ["skönhet", "hälsa", "hudvård", "hårvård", "parfym"],
+      "children": [
+        {
+          "id": "skonhet-halsa/hudvard",
+          "name": "Hudvård & Kroppsvård",
+          "level": 2,
+          "parent_id": "skonhet-halsa",
+          "keywords": ["hudvård", "ansiktskräm", "body lotion"],
+          "children": [
+            {
+              "id": "skonhet-halsa/hudvard/ansikte",
+              "name": "Ansiktsvård",
+              "level": 3,
+              "parent_id": "skonhet-halsa/hudvard",
+              "keywords": ["ansiktskräm", "serum", "rengöring"],
+              "children": [
+                {
+                  "id": "skonhet-halsa/hudvard/ansikte/fuktkram",
+                  "name": "Fuktkrämer & Dagkrämer",
+                  "level": 4,
+                  "parent_id": "skonhet-halsa/hudvard/ansikte",
+                  "keywords": ["dagkräm", "nattkräm", "fuktkräm"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
